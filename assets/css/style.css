@@ -37,3 +37,9 @@
 #menu a:hover {
     border-bottom: 2px solid;
 }
+
+#imgstarguide {
+    width: 350px;
+    height: 350px;
+
+}
