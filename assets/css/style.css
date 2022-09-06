@@ -4,20 +4,18 @@
     border:none;
 }
 
-#home {
-    font-size: 300%;
-    letter-spacing: 2.5px;
+#name {
     float: left;
+    font-size: 350%;
     margin-left: 50px;
 }
 
-#fimage {
-    width: 100%;
-    height: 600px;
+#name, #menu {
+    line-height: 80px;
 }
 
 #menu {
-    font-size: 130%;
+    font-size: 150%;
     letter-spacing: 2px;
 }
 
@@ -26,32 +24,56 @@
     list-style-type: none;
     margin-right: 50px;
 }
-.active {
-    border-bottom: 2px solid;
-}
 
 #menu a {
     text-decoration: none;
 }
 
 #menu a:hover {
-    border-bottom: 2px solid;
+    border-bottom: 1px solid #fff000;
 }
 
-#imgstarguide {
-    width: 600px;
-    height: 400px;
-    margin-bottom: 5px;
-    object-fit: cover;
-
+.active {
+    border-bottom: 1px solid #fff000;
 }
 
-.images {
-    column-count: 2;
-    padding: 0;
-    margin: 0;
+#star-image {
+    height: 550px;
+    width: 100%;
 }
 
-h1 {
+#topic {
     text-align: center;
+    font-size: 400%;
+}
+
+.main-img img {
+    width: 35%;
+    height: 350px;
+}
+
+#left-side {
+    width: 50%;
+    float: left;
+    padding-top: 40px;
+}
+
+#right-side {
+    width: 50%;
+    float: right;
+    padding-top: 40px;
+}
+
+.left-image-text {
+    width: 45%;
+    float: right;
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+
+.right-image-text {
+    width: 45%;
+    float: left;
+    line-height: 20px;
+    margin-bottom: 50px;
 }
