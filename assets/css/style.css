@@ -1,13 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&family=Poppins:ital,wght@1,300&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     border:none;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 #name {
     float: left;
     font-size: 350%;
     margin-left: 50px;
+    color: darkslateblue;
 }
 
 #name, #menu {
@@ -17,6 +25,8 @@
 #menu {
     font-size: 150%;
     letter-spacing: 2px;
+    text-decoration: none;
+    color: darkslateblue;
 }
 
 #menu li {
@@ -27,18 +37,19 @@
 
 #menu a {
     text-decoration: none;
+    color: darkslateblue;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #fff000;
+    border-bottom: 1px solid #2312D6;
 }
 
 .active {
-    border-bottom: 1px solid #fff000;
+    border-bottom: 1px solid #2312D6;
 }
 
 #star-image {
-    height: 550px;
+    height: 650px;
     width: 100%;
 }
 
@@ -70,4 +81,44 @@
 
 .main-img h2 {
     text-align: center;
+}
+
+.main-text {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.main-text h1 {
+    font-family: Combo, sans-serif;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    font-size: 250%;
+}
+
+.main-text p {
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1.5px;
+    margin-bottom: 30px;
+    font-size: 120%;
+}
+footer {
+    background-color: black;
+    
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media a {
+    font-size: 60px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media i {
+    font-size: 140%;
+    margin: 0.5%;
 }
