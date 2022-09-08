@@ -9,6 +9,8 @@
 body {
     display: flex;
     flex-direction: column;
+    background-color: black;
+    color: aqua;
 }
 
 #name {
@@ -154,4 +156,26 @@ header {
 
 div > img {
     width: 100%;
+}
+
+.contact-us {
+    text-align: center;
+}
+
+legend {
+    font-size: 30px;
+}
+
+.form-sign {
+    text-align: center;
+}
+
+.form-label {
+    padding: 30px;
+}
+
+.form-section {
+    background: url(../images/back3.webp) center center;
+    background-size: cover;
+    height: 600px;
 }
