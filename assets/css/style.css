@@ -179,3 +179,26 @@ legend {
     background-size: cover;
     height: 600px;
 }
+
+.contact-us {
+    font-size: 20px;
+    margin-bottom: 3%;
+}
+
+.minfo {
+    margin: 1%;
+}
+
+.bsubmit {
+    margin: 2%;
+}
+
+.flegend {
+    margin: 1.5%;
+}
+
+input[type=submit] {
+    width: 8em;
+    height: 1.5em;
+    border-radius: 90%;
+}
