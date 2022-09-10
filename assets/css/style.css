@@ -206,3 +206,18 @@ input[type=submit] {
     height: 1.5em;
     border-radius: 90%;
 }
+
+@media screen and (max-width: 750px) {
+    .galery-photos {
+        column-count: 2;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .right-image-text {
+        width: 100%;
+    }
+    .left-image-text {
+        width: 100%;
+    }
+}
