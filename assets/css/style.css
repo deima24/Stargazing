@@ -106,6 +106,10 @@ body {
     padding: 0 50px 5px 50px;
 }
 
+h2 a {
+    text-decoration: none;
+}
+
 #galery-link {
     font-size: 150%;
     letter-spacing: 2px;
