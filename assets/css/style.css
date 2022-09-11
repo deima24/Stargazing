@@ -220,4 +220,7 @@ input[type=submit] {
     .left-image-text {
         width: 100%;
     }
+    #menu li {
+        clear: both;
+    }
 }
