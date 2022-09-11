@@ -213,6 +213,10 @@ input[type=submit] {
     }
     #menu li {
         clear: both;
+        float: none;
+    }
+    #menu {
+        text-align: center;
     }
 }
 
