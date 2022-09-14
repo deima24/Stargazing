@@ -220,12 +220,20 @@ input[type=submit] {
     }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 800px) {
     .right-image-text {
         width: 100%;
+        float: none;
     }
     .left-image-text {
         width: 100%;
+        float: none;
     }
     
+}
+
+@media screen and (max-width: 450px) {
+    #name, #menu {
+        line-height: 40px;
+    }
 }
