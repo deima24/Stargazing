@@ -77,3 +77,26 @@ Tested website at W3C validator and no errors to be found.
 ![w3c join today](/media/w3%20join.jpg)
 
 ![w3c css](/media/w3%20css.jpg)
+
+
+## Deployment
+
+This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch.
+
+My project was developed using the Gitpod. I deployed my website from the GitHub repository to GitHub Pages using the following steps:
+
+1. I selected the Settings tab in my GitHub repository.
+
+![settings](/media/settings.jpg)
+
+2. I located the GitHub Pages section and chose the Main branch as the source to enable GitHub Pages.
+
+![main branch](/media/page%20main%20branch.jpg)
+
+3. Once I saved the Main Branch as the source, the page refreshed and I located the URL to the deployed website.
+
+![live page](/media/live%20page.jpg)
+
+4. I then followed the link to observe and verify the published GitHub page.
+
+![page check](/media/url.jpg)
