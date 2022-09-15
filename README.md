@@ -30,3 +30,7 @@ This website is made up of the following sections:
 4. Explain how to start stargazing with a photo.
 
 ![how to start stargazing](/media/how%20to%20start.jpg)
+
+5. Footer includes links with social media sites it will open a new tab when it is clicked. All users can be conected via social media.
+
+![footer social media](/media/footer.jpg)
