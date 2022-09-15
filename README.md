@@ -48,3 +48,19 @@ In a gallery page there is added some photos of the members of Stargazing commun
 Form page will let the new user to sing up to become a member of Stargazing or they can ask for a question about community or something else.
 
 ![form page](/media/form.jpg)
+
+
+## Testing
+
+1. I made sure that the site works on a diffrent screen sizes by Inspecting the page.
+
+2. All the links in the navigation bar works fine, text is readable and easy to understand.
+
+3. In the form you are required to fill every field before submiting the form.
+
+
+## Lighthouse
+
+Lighthouse was tested on a Google Chrome developer tools.
+
+![lighthouse](/media/lighthouse.jpg)
