@@ -15,6 +15,10 @@ This website is made up of the following sections:
 
 ### Navigation
 
-1. Site navigasion bar. Navigation includes Home page, Gallery, Join Today. Always remains the same for the user help navigate it easily.
+1. Site navigasion bar. Navigation includes Home page, Gallery, Join Today. Always remains the same for the user to help navigate it easily.
 
 ![page navigation](/media/navigation.jpg)
+
+2. Front image shows how the couple enjoys wantching the stars. You can see that if you want to look at the stars you don't anything, you could just lift you eyes up to the sky and you are able to see stary sky.
+
+![front image of the page](/media/front%20image.jpeg)
