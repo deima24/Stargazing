@@ -22,3 +22,7 @@ This website is made up of the following sections:
 2. Front image shows how the couple enjoys wantching the stars. You can see that if you want to look at the stars you don't anything, you could just lift you eyes up to the sky and you are able to see stary sky.
 
 ![front image of the page](/media/front%20image.jpeg)
+
+3. A description what kind of equipment will you need. Also you can you an app for stargazing and link for photos.
+
+![description](/media/descriptiom.jpg)
