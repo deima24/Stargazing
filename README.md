@@ -26,3 +26,7 @@ This website is made up of the following sections:
 3. A description what kind of equipment will you need. Also you can you an app for stargazing and link for photos.
 
 ![description](/media/descriptiom.jpg)
+
+4. Explain how to start stargazing with a photo.
+
+![how to start stargazing](/media/how%20to%20start.jpg)
