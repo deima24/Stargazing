@@ -9,4 +9,4 @@ This website is made up of the following sections:
 2. Gallery (some photos)
 3. Form to become a member, for more information or any other qestions.
 
-![](vscode-remote://deima24-stargazing-j3k2i4xflln.ws-eu64.gitpod.io/workspace/Stargazing/extra/page%20widths.jpg)
+![screenshot of Stargazing website](/media/page%20widths.jpg)
