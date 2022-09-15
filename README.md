@@ -100,3 +100,16 @@ My project was developed using the Gitpod. I deployed my website from the GitHub
 4. I then followed the link to observe and verify the published GitHub page.
 
 ![page check](/media/url.jpg)
+
+
+## Content
+
+All the content was created by the owner.
+
+
+## Images 
+
+All of the images for this website were found on free stock photo website, such as:
+
+Pexels
+- [Pexels homepage](https://www.pexels.com/)
