@@ -64,3 +64,13 @@ Form page will let the new user to sing up to become a member of Stargazing or t
 Lighthouse was tested on a Google Chrome developer tools.
 
 ![lighthouse](/media/lighthouse.jpg)
+
+
+## HTML and CSS Validation
+
+Tested website at W3C validator and no errors to be found.
+
+![w3c index](/media/w3%20index.jpg)
+
+![w3c gallery](/media/w3%20gallery.jpg)
+
