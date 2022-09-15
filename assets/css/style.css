@@ -237,3 +237,15 @@ input[type=submit] {
         line-height: 40px;
     }
 }
+
+@media screen and (max-width: 340px) {
+    #name {
+        margin: 0;
+    }
+    #star-image {
+        height: 350px;
+    }
+    .galery-photos {
+        column-count: 1;
+    }
+}
