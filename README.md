@@ -41,3 +41,10 @@ This website is made up of the following sections:
 In a gallery page there is added some photos of the members of Stargazing community.
 
 ![gallery page](/media/gallery%20page.jpg)
+
+
+## Form page
+
+Form page will let the new user to sing up to become a member of Stargazing or they can ask for a question about community or something else.
+
+![form page](/media/form.jpg)
