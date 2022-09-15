@@ -13,7 +13,7 @@ This website is made up of the following sections:
 
 ## Features
 
-### Navigation
+### Home page
 
 1. Site navigasion bar. Navigation includes Home page, Gallery, Join Today. Always remains the same for the user to help navigate it easily.
 
@@ -34,3 +34,10 @@ This website is made up of the following sections:
 5. Footer includes links with social media sites it will open a new tab when it is clicked. All users can be conected via social media.
 
 ![footer social media](/media/footer.jpg)
+
+
+## Gallery page
+
+In a gallery page there is added some photos of the members of Stargazing community.
+
+![gallery page](/media/gallery%20page.jpg)
