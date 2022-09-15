@@ -74,3 +74,6 @@ Tested website at W3C validator and no errors to be found.
 
 ![w3c gallery](/media/w3%20gallery.jpg)
 
+![w3c join today](/media/w3%20join.jpg)
+
+![w3c css](/media/w3%20css.jpg)
