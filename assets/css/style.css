@@ -6,6 +6,20 @@
     border:none;
 }
 
+div > img {
+    width: 100%;
+}
+
+img {
+    width: -webkit-fill-available;
+}
+
+.img-center {
+    margin: 10px;
+    text-align: center;
+    border: groove;
+}
+
 body {
     display: flex;
     flex-direction: column;
