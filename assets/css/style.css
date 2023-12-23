@@ -228,9 +228,13 @@ input[type=submit] {
     #menu li {
         clear: both;
         float: none;
+        margin: 0;
     }
-    #menu {
+    #name, #menu {
+        line-height: 100%;
         text-align: center;
+        float: unset;
+        margin: 0;
     }
 }
 
