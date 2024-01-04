@@ -27,37 +27,10 @@ body {
     color: aqua;
 }
 
-#name {
-    float: left;
-    font-size: 350%;
-    margin-left: 50px;
-    color: darkslateblue;
-}
-
-#name, #menu {
-    line-height: 80px;
-}
-
-#menu {
-    font-size: 150%;
-    letter-spacing: 2px;
-    text-decoration: none;
-    color: darkslateblue;
-}
-
-#menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 50px;
-}
-
-#menu a {
-    text-decoration: none;
-    color: darkslateblue;
-}
-
-#menu a:hover {
-    border-bottom: 1px solid #2312D6;
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .active {
@@ -225,17 +198,7 @@ input[type=submit] {
     .galery-photos {
         column-count: 2;
     }
-    #menu li {
-        clear: both;
-        float: none;
-        margin: 0;
-    }
-    #name, #menu {
-        line-height: 100%;
-        text-align: center;
-        float: unset;
-        margin: 0;
-    }
+    
 }
 
 @media screen and (max-width: 800px) {
@@ -250,16 +213,9 @@ input[type=submit] {
     
 }
 
-@media screen and (max-width: 450px) {
-    #name, #menu {
-        line-height: 40px;
-    }
-}
 
 @media screen and (max-width: 340px) {
-    #name {
-        margin: 0;
-    }
+    
     #star-image {
         height: 350px;
     }
