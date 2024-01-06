@@ -214,12 +214,18 @@ input[type=submit] {
 }
 
 
-@media screen and (max-width: 340px) {
+@media screen and (max-width: 320px) {
     
     #star-image {
         height: 350px;
     }
     .galery-photos {
         column-count: 1;
+    }
+    .navbar-toggler {
+        margin-left: auto;
+    }
+    .title-nav {
+        font-size: 2.3rem;
     }
 }
